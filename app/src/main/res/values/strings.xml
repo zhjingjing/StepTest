@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StepTest</string>
+    <string name="zzy_emm_violation_desc_move_step">%1$s超过%2$s分钟，移动%3$s</string>
+</resources>
